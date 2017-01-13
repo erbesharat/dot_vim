@@ -132,7 +132,7 @@ set scrolloff=2
 set ruler
 set laststatus=2
 setlocal spell spelllang=en_us
-
+set tabstop=2
 " Switch syntax highlighting on, when the terminal has colors
 " Also switch on highlighting the last used search pattern.
 if &t_Co > 2 || has("gui_running")
